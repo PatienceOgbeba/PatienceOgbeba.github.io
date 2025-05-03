@@ -1,32 +1,67 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+#  Hi, I'm Patience Sonia Ogbeba – Cloud Solutions Architect | AWS Certified | Front-End Developer⁣⁣
+⁣⁣
+Welcome to my GitHub profile! I'm a passionate **Cloud Solutions Architect** with 8months of experience designing scalable, secure, and cost-effective cloud infrastructures—primarily on **Amazon Web Services (AWS)**. I specialize in building cloud-native applications using **Infrastructure as Code (IaC)** with **CloudFormation**, **serverless architectures**, and intuitive front-end interfaces using modern web technologies.⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 🚀 What I Do⁣⁣
+⁣⁣
+- 🌩️ Architect and deploy scalable cloud solutions using AWS⁣⁣
+- 🛠️ Automate infrastructure with **CloudFormation**, and **CI/CD pipelines**⁣⁣
+- 🌐 Build responsive web apps using **React**, and **JavaScript**⁣⁣
+- ☁️ Optimize cloud resources for cost, performance, and security⁣⁣
+- 🤖 Integrate AI/ML and communication tools into healthcare and business applications⁣⁣
+- 🔐 Follow best practices in DevOps, Security, and Monitoring⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 🧠 Certifications⁣⁣
+⁣⁣
+- ✅ **AWS Certified Solutions Architect – Associate**⁣⁣
+- ✅ **AWS Certified Cloud Practitioner**⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 🔧 Tools & Technologies⁣⁣
+⁣⁣
+**Cloud:** AWS (EC2, S3, Lambda, DynamoDB, API Gateway, Step Functions, SNS, CloudWatch, RDS)  ⁣⁣
+**IaC:** CloudFormation  ⁣⁣
+**Web Dev:** HTML, CSS, JavaScript and React⁣⁣
+**DevOps:** GitHub Actions, Docker, Bash  ⁣⁣
+**Other:** Postman, Linux, WSL, Visual Studio Code⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 📁 Featured Projects⁣⁣
+⁣⁣
+### 📝 [Serverless Flu Management System]⁣⁣
+Built with AWS Free Tier – A fully serverless flu management application using Lambda, DynamoDB, S3, SNS, and API Gateway.⁣⁣
+⁣⁣
+### 🌍 WakaAbout Travel Guide App *(in progress)*⁣⁣
+A React Native mobile app for navigating nightlife, clubs, restaurants, and tourist destinations in Nigeria with real-time traffic integration and chatbot features.⁣⁣
+⁣⁣
+### 📰 WordPress on AWS with CloudFormation⁣⁣
+Launches a fully functional LAMP stack with WordPress on a t2.micro instance using a single CloudFormation template — Ideal for freelancers or quick client setups.⁣⁣
+⁣⁣
+### Automated Document Ingestion and Compliance Notification System for a Financial/Lending Company⁣⁣⁣⁣⁣
+Launches a fully functional  and completely serverless EDA for ⁣⁣
+Document Ingestion and Compliance Notification⁣⁣⁣
+⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 📫 Let’s Connect⁣⁣
+⁣⁣
+- 🌐 [LinkedIn](www.linkedin.com/in/patience-ogbeba)⁣⁣
+- 📩 [Email](mailto:soniaogbeba@gmail.com)⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+## 📜 License⁣⁣
+⁣⁣
+This profile and all projects in my GitHub repositories are licensed under the [MIT License](https://opensource.org/licenses/MIT).⁣⁣
+⁣⁣
+---⁣⁣
+⁣⁣
+> *“I don’t just deploy infrastructure—I craft resilient cloud ecosystems and deliver clean, human-centered web experiences.”*⁣⁣
+⁣⁣
